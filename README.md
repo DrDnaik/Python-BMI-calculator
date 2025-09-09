@@ -3,10 +3,15 @@ health advice to users. It also displays customer support information to the use
 We run the project from bmi_main.py file. BMICalculator class is imported from bmi_calcualtor.py to bmi_main
 bmi_main is the driver program for this project.codes are executed from here.
 on running the main.py it will print the header BMI calculator followed by prompts for user to enter their data
+
 User has to enter age,if age is 20 or more the user will be prompted to select system -metric or imperial system
+
 once system is selected, user is prompted to enter weight and height as specified
+
 once user enters valid weight and height following things are displayed:
+
 for example
+
 Enter Your Age: 34
 Choose units (metric/imperial): metric
 Enter your weight in kg: 45
@@ -19,7 +24,9 @@ Units: kg / cm
 Weight: 45.0 kg
 Height: 152.0 cm
 Your BMI: 19.48
+
 BMI Category: Normal weight: Congratulations! Your BMI is normal:
+
 The bmi calculator is based on The Centers for Disease Control and Prevention agency recommendations
 For more information, please contact at abc@abc.com and 808-123456
 
